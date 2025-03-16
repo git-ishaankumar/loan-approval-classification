@@ -5,7 +5,7 @@ Shows the processes taken to read in the data, prepare the data, setup the model
 ---
 ## Usage
 ```
-git clone https://github.com/code-ishaan/loan-approval-classification.git
+git clone https://github.com/git-ishaankumar/breast-cancer-classification
 ```
 ```
 cd loan-approval-classification
